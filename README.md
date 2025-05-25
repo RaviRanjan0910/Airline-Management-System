@@ -70,6 +70,7 @@ CREATE TABLE customer (
 3. Add MySQL JDBC Driver to the project libraries.
 4. Update DB credentials in your Java files.
 5. Run the main class (`Login.java` or `Dashboard.java`).
+6. username: admin and password: 12345
 
  ## 6. Demo
 
