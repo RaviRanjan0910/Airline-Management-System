@@ -62,7 +62,6 @@ CREATE TABLE customer (
 );
 ```
 
----
 
 ## 🖥 How to Run
 
@@ -71,6 +70,36 @@ CREATE TABLE customer (
 3. Add MySQL JDBC Driver to the project libraries.
 4. Update DB credentials in your Java files.
 5. Run the main class (`Login.java` or `Dashboard.java`).
+
+ ## 6. Demo
+
+- Login Page:
+
+![This is an image](src/screenshot/login.png)
+
+- Airline Management System Dashboard:
+
+![This is an image](src/screenshot/dashboard.png)
+
+- Add Customer Page:
+
+![This is an image](src/screenshot/add_customer.png)
+
+- Cancel Flight Page:
+
+![This is an image](src/screenshot/cancel.png)
+
+- Flight Information Page:
+
+![This is an image](src/screenshot/flight_info.png)
+
+- Journey Details Page:
+
+![This is an image](src/screenshot/journey_details.png)
+
+- Flight Payment Page:
+
+![This is an image](src/screenshot/payment.png)
 
 ---
 
