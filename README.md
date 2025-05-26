@@ -108,7 +108,7 @@ CREATE TABLE customer (
 
 - Sameer Raj (Team Leader) - 24SCSE1180422
 - Ravi Ranjan              - 24SCSE1180352
-- Sumit Singh              - 24SCSE1180186
+- Sumit Singh              - 24SCSE1180161
 - Vishal Sharma            - 24SCSE1180312
 
 ---
