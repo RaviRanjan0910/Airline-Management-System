@@ -116,3 +116,4 @@ CREATE TABLE customer (
 ## 📄 License
 
 This project is developed for educational purposes.
+and for knowledge .
