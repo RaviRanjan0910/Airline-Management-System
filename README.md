@@ -113,7 +113,7 @@ CREATE TABLE customer (
 
 ---
 
-## 8. 📧 Teammates
+## 📧 Teammates
 
 - Sameer Raj (Team Leader) - 24SCSE1180422
 - Ravi Ranjan              - 24SCSE1180352
