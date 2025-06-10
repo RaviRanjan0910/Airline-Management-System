@@ -73,7 +73,7 @@ CREATE TABLE customer (
 6. username: admin and password: 12345
 
    
-##✨ Key Modules
+## ✨ Key Modules
 - **Login & Authentication** – Admin-secured access
 - **Customer Management** – Add/view customer details
 - **Flight Operations** – Add/view/cancel flights
@@ -81,7 +81,7 @@ CREATE TABLE customer (
 - **Payments** – Simple payment capture module
 
 
- ## 7. Demo
+ ##  Demo
 
 - Login Page:
 
