@@ -71,12 +71,15 @@ CREATE TABLE customer (
 4. Update DB credentials in your Java files.
 5. Run the main class (`Login.java` or `Dashboard.java`).
 6. username: admin and password: 12345
- ## 6. ✨ Key Modules
+
+   
+##✨ Key Modules
 - **Login & Authentication** – Admin-secured access
 - **Customer Management** – Add/view customer details
 - **Flight Operations** – Add/view/cancel flights
 - **Journey Booking** – Booking and cancellation handling
 - **Payments** – Simple payment capture module
+
 
  ## 7. Demo
 
